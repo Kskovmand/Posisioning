@@ -1,0 +1,21 @@
+.parent{
+     padding: 5px;
+background-color: beige;
+
+}
+.child-one{
+background-color: blueviolet;
+
+}
+.child-two{
+background-color: chartreuse;
+
+}
+.child-three{
+    background-color: darkgoldenrod;
+}
+.child{
+padding: 10px;
+
+
+}
